@@ -19,4 +19,6 @@ Cost code
 
 const bagPrice = 10;
 const bagDiscount = 24;
-const salePrice = bagPrice + bagDiscount;
+let salePrice = bagPrice + bagDiscount;
+
+let person = "Me", carName = "Lambo" , age = 14 , netWorth = "0 💀"
